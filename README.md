@@ -13,8 +13,7 @@ Contact info: 109058188+Agentofchaoss@users.noreply.github.com / agent0fchaos@on
                         ` ` ` ` `
                        /_________\
                       (     0     )
-                      \___________/
-                      
+                      \___________/      
                  ______________________
                /                        \
               /                          \
