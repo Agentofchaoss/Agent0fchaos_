@@ -26,6 +26,6 @@
                       *     ******                              
                       
                       
-                                                                  Do Not Allow the eye to fool the mind.
+                                                                Do Not Allow the eye to fool the mind.
                                                                   
-                                                                   Contact: [Onion Mail](https://agent0fchaos@onionmail.org)
+                                                           [Onion Mail]<https://agent0fchaos@onionmail.org>
