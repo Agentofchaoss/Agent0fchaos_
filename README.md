@@ -1,6 +1,4 @@
-
- 
- <h1><strong>Hello, My Name is...</strong></h1>
+<h1><strong>Hello, My Name is...</strong></h1>
 
 
 
