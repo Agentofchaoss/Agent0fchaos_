@@ -10,3 +10,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Deploy to Cloudflare with Wrangler
+        uses: Cyb3r-Jak3/wrangler-action@v1.0.0
+            
