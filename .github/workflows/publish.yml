@@ -1,3 +1,4 @@
+
 on: [push]
 
 jobs:
@@ -13,4 +14,4 @@ jobs:
 
       - name: Deploy to Cloudflare with Wrangler
         uses: Cyb3r-Jak3/wrangler-action@v1.0.0
-            
+        
