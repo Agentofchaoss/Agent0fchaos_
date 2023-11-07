@@ -12,6 +12,5 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Deploy to Cloudflare with Wrangler
-        id: deployment
+        id: deployments
         uses: Cyb3r-Jak3/wrangler-action@v1.0.0
-        
